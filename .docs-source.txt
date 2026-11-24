@@ -1,3 +1,3 @@
 source: aon-co-jp/cnf-diamond-fiber-battery
-commit: c8cba9795bbcfa8351c9569a98f4415101daa884
-updated: 2026-11-20T05:23:46Z
+commit: 925dea8c490e29f86b41cc5e18384c8b77ea2f53
+updated: 2026-11-24T10:46:17Z
